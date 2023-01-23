@@ -9,4 +9,4 @@ More accurate description can be seen [here](https://github.com/pawel002/Statist
 
 ## Usage
 After launching app user can see how diffrent values affect plots of distribution and distribution of averages. App automatically updates after inputing changes.
-[Interface](https://github.com/pawel002/Statistics-Project/blob/main/image.png)
+![Interface](https://github.com/pawel002/Statistics-Project/blob/main/image.png)
