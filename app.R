@@ -28,9 +28,9 @@ ui <- fluidPage(
                    value = 2),
       
       # opis po angielsku
-      strong("The red line on the upper plot describes the theoretical density
-             and, on the lower one, distribution N(0,1), to which the histogram
-             will converge for sufficiently large n."),
+      strong("The red line on the upper plot describes the theoretical density function
+             and, on the lower one, distribution N(0,1), to which the lower histogram
+             should converge for sufficiently large n, according to CLT."),
       
       strong("To simplify the interface, and avoid calculating mean and
              covariance, the following distributions have been used: "),
