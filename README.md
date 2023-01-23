@@ -4,7 +4,8 @@ This repository contains a project made for the Probability and Statistics cours
 - shiny
 - ggplot2
 - comprehenr
-- pracma \\
+- pracma
+
 More accurate description can be seen [here](https://github.com/pawel002/Statistics-Project/blob/main/statistics.pdf) in Polish. 
 
 ## Usage
